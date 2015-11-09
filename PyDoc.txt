@@ -1,0 +1,2 @@
+Here is the location of the Python Documentation
+https://docs.python.org/2/library/string.html#format-string-syntax
